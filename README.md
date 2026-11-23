@@ -1,11 +1,9 @@
-# Привет, я Arlekino
+# Hi, I'm Arlekino
 
-Здесь я собираю личные проекты и прототипы. Публикую демо, чтобы идеи можно было попробовать прямо в браузере.
+I build personal projects and prototypes with an eye for precision and simplicity. This is where I share the ones you can try.
 
-## Проекты
+## Projects
 
-### Saldo
+**Saldo** is an interactive family budgeting demo. Add transactions, plan expenses, and track savings with fictional data.
 
-Интерактивное демо для ведения семейного бюджета. На вымышленных данных можно добавлять операции, планировать расходы и следить за накоплениями.
-
-[Открыть демо](https://indepream.github.io/saldo-demo/) · [Репозиторий](https://github.com/Indepream/saldo-demo)
+[Try Saldo](https://arlekinoco.github.io/saldo-demo/) · [View the repository](https://github.com/ArlekinoCo/saldo-demo)
