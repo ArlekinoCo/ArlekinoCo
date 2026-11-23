@@ -6,4 +6,4 @@ I build personal projects and prototypes with an eye for precision and simplicit
 
 **Saldo** is an interactive family budgeting demo. Add transactions, plan expenses, and track savings with fictional data.
 
-[Try Saldo](https://arlekinoco.github.io/saldo-demo/) · [View the repository](https://github.com/ArlekinoCo/saldo-demo)
+[Try Saldo](https://arlekinoco.github.io/kosha-demo/) · [View the repository](https://github.com/ArlekinoCo/kosha-demo)
