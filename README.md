@@ -1,4 +1,4 @@
-![Arlekino · Aelecino Company — mint-green harlequin mask drawn in ASCII](assets/arlekinoco-ascii.png)
+![Arlekino · Lyriss Co. — mint-green harlequin mask drawn in ASCII](assets/arlekinoco-ascii.png)
 
 <sub>[ASCII source](assets/arlekinoco-mask.txt)</sub>
 
