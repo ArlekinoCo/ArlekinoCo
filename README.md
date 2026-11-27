@@ -1,11 +1,9 @@
 ![Arlekino · Aelecino Company — Personal projects and prototypes](assets/arlekinoco-banner.png)
 
-I build personal projects and prototypes with an eye for precision and simplicity. This is where I share the ones you can try.
+I make small prototypes to see how an idea feels in use.
 
-## Featured project
+## Kosha
 
-### Kosha
+A hands-on family budgeting prototype. Try logging expenses, setting category budgets, and saving toward a goal with a fictional household.
 
-An interactive family budgeting demo. Add transactions, plan expenses, and track savings with fictional household data.
-
-[**Try Kosha**](https://arlekinoco.github.io/kosha-demo/) · [View the repository](https://github.com/ArlekinoCo/kosha-demo)
+[**Try Kosha**](https://arlekinoco.github.io/kosha-demo/) · [Project and offline version](https://github.com/ArlekinoCo/kosha-demo)
