@@ -1,4 +1,4 @@
-![Hushryn · Lyriss Co. — mint-green harlequin mask drawn in ASCII](assets/hushryn-ascii.png)
+![Hushryn · Lyriss Co. — Work worth sharing. Mint-green harlequin mask drawn in ASCII](assets/hushryn-ascii.png)
 
 <sub>[ASCII source](assets/arlekinoco-mask.txt)</sub>
 
