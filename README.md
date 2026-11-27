@@ -1,4 +1,6 @@
-![Arlekino · Aelecino Company — Personal projects and prototypes](assets/arlekinoco-banner.png)
+![Arlekino · Aelecino Company — mint-green harlequin mask drawn in ASCII](assets/arlekinoco-ascii.png)
+
+<sub>[ASCII source](assets/arlekinoco-mask.txt)</sub>
 
 I make small prototypes to see how an idea feels in use.
 
